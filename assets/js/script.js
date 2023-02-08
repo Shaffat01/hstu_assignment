@@ -15,14 +15,14 @@ $(document).ready(function(){
 
 
     var typed = new Typed(".typing", {
-        strings: ["Studying in B.Sc.(Engineering) in ECE at HSTU","Web Designer","Web Developer"],
+        strings: ["Studying in B.Sc.(Engineering) in ECE at HSTU"," a Web Designer"," a Web Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Studying in B.Sc.(Engineering) in ECE at HSTU","Web Designer","Web Developer"],
+        strings: ["Studying in B.Sc.(Engineering) in ECE at HSTU"," a Web Designer"," a Web Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
